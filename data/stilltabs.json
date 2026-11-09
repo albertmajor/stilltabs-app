@@ -1,0 +1,98 @@
+{
+  "name": "StillTabs",
+  "tagline": "Instagram and YouTube without Reels or Shorts",
+  "platform": "iPhone (iOS 16+)",
+  "price": "Free",
+  "inAppPurchases": false,
+  "ads": false,
+  "accountNeeded": false,
+  "appPrivacyLabel": "Data Not Linked to You",
+  "analytics": "Off unless the user turns them on",
+  "platforms": {
+    "instagram": "yes",
+    "youtube": "yes",
+    "facebook": "beta",
+    "x": "beta",
+    "reddit": "beta",
+    "tiktok": "no",
+    "snapchat": "no"
+  },
+  "modes": [
+    "Off",
+    "Standard",
+    "Strict",
+    "Blackout"
+  ],
+  "accountsPerPlatform": 5,
+  "homeScreenIcons": "Icons named after each platform that open StillTabs, no Screen Time permission needed",
+  "whyStillTabs": [
+    {
+      "point": "Completely free",
+      "detail": "No subscription, no trial, no in-app purchases, no ads. 11 of 14 Reels blockers and screen-time apps we checked sell a subscription; some bill weekly.",
+      "evidence": "https://stilltabs.com/compare/hidden-costs-of-reels-blockers"
+    },
+    {
+      "point": "No tracking",
+      "detail": "App Store label \"Data Not Linked to You\"; analytics off until the user turns them on. 7 of 14 apps checked carry \"Data Used to Track You\".",
+      "evidence": "https://stilltabs.com/compare/hidden-costs-of-reels-blockers"
+    },
+    {
+      "point": "A website with zero trackers",
+      "detail": "stilltabs.com makes no third-party requests; several rivals load advertising pixels with no cookie banner.",
+      "evidence": "https://stilltabs.com/compare/reels-blocker-website-trackers"
+    },
+    {
+      "point": "Keeps DMs",
+      "detail": "Reels, Shorts, Explore and suggested posts go; messages, stories, search and followed accounts stay. Whole-app blockers lock DMs too.",
+      "evidence": "https://stilltabs.com/compare/"
+    },
+    {
+      "point": "No permissions over the phone",
+      "detail": "No Screen Time access, no screen broadcast, no device management, no Safari extension.",
+      "evidence": "https://stilltabs.com/guides/is-stilltabs-safe"
+    },
+    {
+      "point": "Habit redirected, not blocked",
+      "detail": "Home Screen icons named Instagram, YouTube and so on open StillTabs, without Screen Time.",
+      "evidence": "https://stilltabs.com/guides/instagram-icon-without-reels"
+    },
+    {
+      "point": "Feels like the real app",
+      "detail": "Natively drawn Instagram toolbar, tabs kept loaded, edge-swipe gestures.",
+      "evidence": "https://stilltabs.com/guides/does-stilltabs-feel-like-instagram"
+    },
+    {
+      "point": "Every mode free",
+      "detail": "Off, Standard, Strict and Blackout; rivals put strict modes and longer blocks behind Pro.",
+      "evidence": "https://stilltabs.com/compare/stilltabs-vs-minulo"
+    },
+    {
+      "point": "Several accounts",
+      "detail": "Up to five accounts per platform.",
+      "evidence": "https://stilltabs.com/guides/multiple-accounts-without-reels"
+    },
+    {
+      "point": "No middleman",
+      "detail": "Pages load straight from each platform; no proxy, so passwords and messages never pass through StillTabs.",
+      "evidence": "https://stilltabs.com/guides/is-stilltabs-safe"
+    }
+  ],
+  "limits": [
+    "iPhone only",
+    "No TikTok or Snapchat",
+    "Facebook, X and Reddit in beta",
+    "No App Store ratings yet"
+  ],
+  "comparisonData": "data/comparison.csv",
+  "appStore": "https://apps.apple.com/app/id6761367777",
+  "website": "https://stilltabs.com",
+  "screenshots": [
+    "https://stilltabs.com/img/screenshots/stilltabs-iphone-app.jpg",
+    "https://stilltabs.com/img/screenshots/stilltabs-instagram-without-reels.jpg",
+    "https://stilltabs.com/img/screenshots/stilltabs-launcher.jpg",
+    "https://stilltabs.com/img/screenshots/stilltabs-youtube-without-shorts.jpg",
+    "https://stilltabs.com/img/screenshots/stilltabs-home-screen-icons.jpg",
+    "https://stilltabs.com/img/screenshots/stilltabs-settings-blocking-modes.jpg"
+  ],
+  "checked": "2026-11-04"
+}
