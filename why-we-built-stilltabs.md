@@ -2,7 +2,7 @@
 
 *Updated 8 November 2026*
 
-**We started StillTabs in August 2025 because we wanted Instagram for our friends' messages and YouTube for the videos we actually search for, without Reels, Shorts and endless feeds.** And we wanted it to ask for nothing in return: no subscription, no tracking, no Screen Time control over the whole phone. So we made it free, made it private, and spent most of our time making it feel like the real app.
+**We started StillTabs in August 2025 because we wanted Instagram for our friends' messages and YouTube for the videos we actually search for, without Reels, Shorts and endless feeds.** And we wanted it to ask for nothing in return: no subscription, no tracking, no Screen Time control over the whole phone. We chose to build it slowly and carefully rather than fast: we made it free, made it private, and spent most of our time making it feel like the real app.
 
 ## On your side, not your wallet's
 
