@@ -31,7 +31,7 @@
 
 Both hide the parts of Instagram and YouTube built to keep you scrolling (Reels, Shorts, Explore, suggested posts, autoplay) and keep your messages, search and the accounts you follow. Both are completely free, with no subscription, no in-app purchases, no ads and no account, and neither runs your logins through its own servers.
 
-On our [pro-consumer checklist](https://github.com/albertmajor/iphone-reels-shorts-blockers#pro-consumer-score), which looks at pricing, tracking, terms and upkeep, StillTabs scores 14 out of 14, the only perfect score of the 18 apps checked. Nope scores 12: it passes every pricing, tracking and terms check, but has no App Store update since May 2026 and needs iOS 17.
+On our [pro-consumer checklist](https://github.com/albertmajor/awesome-reels-shorts-blockers#pro-consumer-score), which looks at pricing, tracking, terms and upkeep, StillTabs scores 14 out of 14, the only perfect score of the 18 apps checked. Nope scores 12: it passes every pricing, tracking and terms check, but has no App Store update since May 2026 and needs iOS 17.
 
 ## Where StillTabs is better
 

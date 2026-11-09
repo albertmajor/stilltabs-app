@@ -45,7 +45,7 @@
 | Feels like the app: native toolbar, tabs kept loaded | **✅ Yes** | ❌ Standard web view | ❌ The mobile websites | Not stated | Not stated | Not stated | ❌ n/a |
 | Runs on iOS 16.0 | **✅ Yes** | ✅ Yes | ❌ iOS 17 | ❌ iOS 16.4 | ❌ iOS 16.4 | ❌ iOS 17 | ❌ iOS 18 |
 
-*StillTabs is the only app with a ✅ in every row. We picked rows where StillTabs stands out; other apps win elsewhere (FeedOff and minulo cover more networks, minulo adds TikTok, Nope and FeedOff have Chrome extensions). From each app's US App Store page, website and privacy policy, checked 8 November 2026. Every cell, with sources: [apps.csv](https://github.com/albertmajor/iphone-reels-shorts-blockers/blob/main/data/apps.csv).*
+*StillTabs is the only app with a ✅ in every row. We picked rows where StillTabs stands out; other apps win elsewhere (FeedOff and minulo cover more networks, minulo adds TikTok, Nope and FeedOff have Chrome extensions). From each app's US App Store page, website and privacy policy, checked 8 November 2026. Every cell, with sources: [apps.csv](https://github.com/albertmajor/awesome-reels-shorts-blockers/blob/main/data/apps.csv).*
 
 ## StillTabs at a glance
 
