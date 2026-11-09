@@ -45,7 +45,7 @@ If you're happy to watch YouTube on youtube.com in Safari, a Safari extension ca
 | Other platforms | Instagram; Facebook, X, Reddit in beta | Instagram | Instagram, Facebook, X; blocks TikTok | YouTube only |
 | Devices | iPhone, iOS 16.0+ | iPhone, iOS 17.0+ (also on Apple silicon Macs) | iPhone, iPad, Mac; iOS 16.0+ | Any device with the app |
 | App Store privacy label | Data Not Linked to You; analytics off unless you turn them on | Data Not Collected | Data Not Collected | Not applicable |
-| US App Store ratings | New, no ratings yet | 4 ratings, 2.5 average | 4 ratings, 4.0 average | Not applicable |
+| US App Store ratings | New, out since September 2026 | 4 ratings, 2.5 average | 4 ratings, 4.0 average | Not applicable |
 
 *From each app's US App Store page and YouTube Help, checked 8 November 2026.*
 
@@ -73,11 +73,27 @@ If you're happy to watch YouTube on youtube.com in Safari, a Safari extension ca
 
 - **Open source and translated.** Slowth's code is on GitHub and its App Store page lists 55 languages. StillTabs is English only.
 
-- **A few ratings already.** StillTabs is new, with no ratings yet.
-
 ## Which should you pick?
 
 **Already watch YouTube in Safari?** Try Nope or Slowth. **Want to tap a YouTube icon on your Home Screen and get YouTube without Shorts?** Try StillTabs. **Want to stay in the official app?** Set the Shorts feed limit to zero and use Show fewer Shorts, knowing both can be overridden. For the wider picture, see [can you turn off YouTube Shorts](turn-off-youtube-shorts.md) and [all the apps we compared](../compare/README.md).
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 
@@ -91,7 +107,7 @@ No. YouTube's help page says a message appears when you reach the limit and you 
 
 ### Is there a YouTube app without Shorts for iPhone?
 
-StillTabs shows YouTube inside its own app with the Shorts tab and the Shorts shelves on Home removed in Standard mode, and autoplay removed. It is free, with no in-app purchases, no ads and no account needed. It is new, with no ratings yet.
+StillTabs shows YouTube inside its own app with the Shorts tab and the Shorts shelves on Home removed in Standard mode, and autoplay removed. It is free, with no in-app purchases, no ads and no account needed.
 
 ### Do Safari extensions remove Shorts from the YouTube app?
 

@@ -12,7 +12,7 @@
 | Data Linked to You | None | Browsing History, Coarse Location, Purchase History, User ID, Device ID, Advertising Data and more |
 | App Store age rating, under "Contains" | No ads | "Advertising" |
 | Analytics | Off until you turn them on | On by default, per its policy |
-| App Store ratings | New | No ratings |
+| App Store ratings | New, out since September 2026 | No ratings |
 
 ## What to check before you subscribe
 
@@ -25,6 +25,24 @@
 - **Price testing:** "We may show different subscription prices to different users".
 
 - **"Anonymous" vs "Linked".** The policy calls the data anonymous; the App Store label declares it as linked to you.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Related
 

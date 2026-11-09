@@ -32,7 +32,7 @@ Other Reels blockers exist too, such as FeedOff, Nope and Slowth. We only list a
 | App Store privacy label | Data Not Linked to You | Data Not Linked to You | Data Linked to You, including User Content (Emails or Text Messages), User ID and Device ID |
 | Devices | iPhone, iOS 16.0 or later | iPhone, iOS 16.4 or later | iPhone (iOS 15.0 or later) and Mac |
 | App Store age rating | 17+ | 4+ | 4+ |
-| US App Store ratings | New, no ratings yet | 1 rating | None yet |
+| US App Store ratings | New, out since September 2026 | 1 rating | None yet |
 
 *From each app's US App Store page and lookup data, minulo's website, and Konvo's website, privacy policy and terms, checked 8 November 2026.*
 
@@ -48,7 +48,7 @@ StillTabs shows Instagram inside its own app with Reels, Explore, suggested post
 
 - **Private by design.** Pages load straight from Instagram, so your password and messages never pass through StillTabs. Analytics stay off unless you turn them on.
 
-StillTabs is iPhone only and new, with no ratings yet. It has no TikTok or Snapchat. For a step-by-step setup, read [how to use Instagram only for messages](instagram-only-for-messages.md).
+StillTabs is iPhone only. It has no TikTok or Snapchat. For a step-by-step setup, read [how to use Instagram only for messages](instagram-only-for-messages.md).
 
 ## minulo (DMs-only setting free, Pro paid)
 
@@ -83,6 +83,24 @@ You can read and send DMs at instagram.com in Safari without any app. It costs n
 ## Why Screen Time cannot do it
 
 Screen Time can limit or block *whole* apps and websites. It cannot reach inside Instagram and hide Reels while leaving DMs. If you block Instagram, you lose your messages too. That is why the apps above load Instagram themselves and hide the parts you don't want. [StillTabs vs Screen Time](../compare/stilltabs-vs-screen-time.md).
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

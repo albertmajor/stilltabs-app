@@ -78,6 +78,24 @@ StillTabs is made by a small independent team, not a tech company. We built it b
 
 - **You want to post videos or Reels.** You can post photos to your Instagram feed and Story from StillTabs, but Instagram only takes photos this way, so use Instagram's own app for videos and Reels.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Common questions
 
 ### Is StillTabs the same app as "Still: Reels & Shorts Blocker" or Stillfeed?

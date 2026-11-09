@@ -23,7 +23,7 @@
 | Other devices | iPhone only | iPhone, iPad, and a free Chrome extension |
 | Requires | **iOS 16.0** | iOS 17.0 |
 | Latest App Store update | Version 1.3, 15 October 2026 | Version 1.0, 19 May 2026 |
-| App Store ratings (US) | New, no ratings yet | 2.5 from 4 ratings |
+| App Store ratings (US) | New, out since September 2026 | 2.5 from 4 ratings |
 
 *From each app's US App Store page, the App Store lookup data and nope-app.com, checked 8 November 2026.*
 
@@ -59,8 +59,6 @@ On our [pro-consumer checklist](https://github.com/albertmajor/iphone-reels-shor
 
 - **Works in Safari and on your computer.** If you already use Instagram and YouTube in Safari, nothing changes in how you browse. It runs on iPad, and the same controls come as a free Chrome extension. StillTabs is iPhone only.
 
-- **A few ratings already.** Nope has 4 ratings on the US App Store; StillTabs is new and has none yet.
-
 ## Which one should you pick?
 
 - **Pick StillTabs** if you want something that replaces the Instagram and YouTube apps: you tap the same icons, it feels like the app, you use Facebook, X or Reddit too, or you have more than one account.
@@ -72,6 +70,24 @@ Both are free, so you can try both. Our [comparison overview](README.md) covers 
 ## What neither can do
 
 Neither can change the official Instagram or YouTube app: iOS doesn't let one app alter another. Both work with the platforms' websites, so a few app-only features may be missing, and either can briefly miss something when a platform changes its site, until it's updated. Neither covers TikTok.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

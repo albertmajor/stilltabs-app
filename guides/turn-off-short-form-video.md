@@ -30,6 +30,24 @@
 
 Short-form video is built for the next swipe: each clip is short enough that stopping never feels necessary. Infinite scrolling, autoplay and recommendations keep the loop going. StillTabs removes those mechanisms and leaves what you opened the app for: a message, a search, a video you chose.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [Can you turn off Instagram Reels?](turn-off-instagram-reels.md)

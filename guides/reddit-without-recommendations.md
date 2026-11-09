@@ -14,6 +14,24 @@
 
 Reddit's mobile website pushes its app, and in 2026 it tested a prompt some frequent logged-out iPhone visitors couldn't dismiss. **StillTabs hides the "Open in app" button and bottom sheet in every mode**, and in Standard stops videos playing as you scroll. Reddit support is in beta.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [Is there a way to turn off short-form video?](turn-off-short-form-video.md)

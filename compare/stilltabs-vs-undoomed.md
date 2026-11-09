@@ -23,7 +23,7 @@
 | In-app analytics | Off until you turn them on | Off until you consent (self-hosted OpenPanel); crash reports a separate opt-in |
 | Devices | iPhone only, iOS 16.0 or later | iPhone and iPad (iOS 16.4 or later), plus Android |
 | Languages | English | 20 |
-| App Store ratings (US) | New, no ratings yet | 4.3 from 108 ratings |
+| App Store ratings (US) | New, out since September 2026 | 4.3 from 108 ratings |
 
 *From each app's US App Store page, the App Store lookup, and undoomed.app (pricing and privacy policy), checked 8 November 2026.*
 
@@ -59,7 +59,7 @@ StillTabs has no paid tier. Its four modes and up to five accounts per platform 
 
 - **Android, iPad and 20 languages.** StillTabs is iPhone only and in English for now.
 
-- **A track record.** UNDOOMED has been on the App Store since October 2025, has 108 US ratings averaging 4.3 and was last updated on 22 October 2026. StillTabs is new, with no ratings yet.
+- **A track record.** UNDOOMED has been on the App Store since October 2025, has 108 US ratings averaging 4.3 and was last updated on 22 October 2026.
 
 ## What they have in common
 
@@ -76,6 +76,24 @@ Neither covers TikTok or Snapchat. UNDOOMED lists both but marks them unavailabl
 - **You need Threads, LinkedIn, Android, time limits or a parental PIN:** UNDOOMED.
 
 - **You're not sure:** both are free to try. Install one, use it for a week, then decide.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

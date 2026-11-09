@@ -77,11 +77,43 @@
       "evidence": "https://stilltabs.com/guides/is-stilltabs-safe"
     }
   ],
+  "userFeedback": {
+    "note": "Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.",
+    "quotes": [
+      {
+        "text": "LOVE THE UI OMG",
+        "month": "November 2026"
+      },
+      {
+        "text": "Great product.. super underrated",
+        "month": "November 2026"
+      },
+      {
+        "text": "I LOVE YOU STILL TABS UR SAVING ME!!",
+        "month": "November 2026"
+      },
+      {
+        "text": "This app is what i was looking for",
+        "month": "November 2026"
+      },
+      {
+        "text": "just what i was looking for (free)",
+        "month": "October 2026"
+      },
+      {
+        "text": "Hi! Thanks for making such a cool app",
+        "month": "October 2026"
+      },
+      {
+        "text": "Love it",
+        "month": "November 2026"
+      }
+    ]
+  },
   "limits": [
     "iPhone only",
     "No TikTok or Snapchat",
-    "Facebook, X and Reddit in beta",
-    "No App Store ratings yet"
+    "Facebook, X and Reddit in beta"
   ],
   "comparisonData": "data/comparison.csv",
   "appStore": "https://apps.apple.com/app/id6761367777",

@@ -22,6 +22,24 @@
 
 - **Press:** on 16 February 2026, CSO Online reported a researcher's list of Chrome extensions sending browsing history that included BlockSite's Chrome extension (the extension, not the iPhone app).
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [What "free" Reels blockers and screen-time apps really cost](hidden-costs-of-reels-blockers.md)

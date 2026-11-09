@@ -60,7 +60,7 @@ From the terms: subscriptions renew automatically unless you cancel, cancelling 
 | App Store privacy label | Data Not Linked to You | "Data Used to Track You": Identifiers. Not linked: purchases, email, name, phone number, user ID, device ID, product interaction, advertising data |
 | Requires | iOS 16.0, iPhone | iOS 17.0; also iPad, Mac with Apple silicon, Apple Vision, Android |
 | App Store age rating | 17+ | 13+ |
-| US App Store ratings | New, no ratings yet | 4.7 from 17,419 ratings |
+| US App Store ratings | New, out since September 2026 | 4.7 from 17,419 ratings |
 
 *From each app's US App Store page and the iTunes lookup data, plus SocialLite's terms, FAQ, privacy policy and iPhone page. Checked 8 November 2026.*
 
@@ -96,13 +96,31 @@ None of these covers TikTok or Snapchat inside the app. For more options, see [f
 
 - **Android, iPad and Mac.** StillTabs is iPhone only.
 
-- **Many ratings.** 4.7 from 17,419 US ratings, and nine languages. StillTabs is new, with no ratings yet.
+- **Many ratings.** 4.7 from 17,419 US ratings, and nine languages.
 
 ## Is SocialLite Pro worth it?
 
 It depends on what you need. If the default blocks suit you, the free tier already removes Reels, Shorts and Explore, and you don't need Pro. Pro makes sense if you want to fine-tune individual blocks, use several Instagram accounts in SocialLite, or set up a Family plan for a child.
 
 If you mainly use Instagram and YouTube and want full control without paying, a free app may be enough. Read [the hidden costs of Reels blockers](hidden-costs-of-reels-blockers.md) or the full [StillTabs vs SocialLite comparison](stilltabs-vs-sociallite.md).
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

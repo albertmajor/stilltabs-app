@@ -30,7 +30,7 @@ Scroll Less also has a second mode, which it calls Hide: you open Instagram, You
 | In-app analytics | **Off until you turn them on** | Analytics listed on its label |
 | Requires | iOS 16.0 | iOS 17.6 |
 | Devices | iPhone only | iPhone (its App Store page also lists Mac with Apple M1 or later and Apple Vision compatibility; not verified for macOS) |
-| App Store ratings (US) | New, no ratings yet | 4.5 from 25 ratings |
+| App Store ratings (US) | New, out since September 2026 | 4.5 from 25 ratings |
 
 *From each app's US App Store page, the App Store lookup data and scroll-less.com, checked 8 November 2026.*
 
@@ -58,7 +58,7 @@ Scroll Less also has a second mode, which it calls Hide: you open Instagram, You
 
 - **Extra controls,** such as app blocking sessions and an Accountability PIN.
 
-- **Ratings.** It has been on the App Store since March 2025 and has 25 US ratings. StillTabs is new and has none yet.
+- **Ratings.** It has been on the App Store since March 2025 and has 25 US ratings.
 
 ## Can you block Reels inside the Instagram app on iPhone?
 
@@ -69,6 +69,24 @@ StillTabs takes a different route: you can keep the official app installed but o
 ## Other free options
 
 StillTabs isn't the only free choice. FeedOff and Nope are also free to download with no in-app purchases listed on their US App Store pages, and each works differently. Our [comparison hub](README.md) covers them, and [the hidden costs of Reels blockers](hidden-costs-of-reels-blockers.md) lists what paid apps charge.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

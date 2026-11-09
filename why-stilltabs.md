@@ -99,6 +99,24 @@ Instagram and YouTube, plus Facebook, X and Reddit in beta, all with the same mo
 
 It's made by a small independent team with no ads and no data to sell, so nothing in StillTabs is built to keep you in it longer. The goal is the opposite: less time on your phone, spent on what you meant to do.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [The best apps to block Reels and Shorts on iPhone in 2026](compare/README.md)

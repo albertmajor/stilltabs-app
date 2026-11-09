@@ -41,6 +41,24 @@ These come from StillTabs' own filter rules, not from user data.
 
 Platforms redesign their pages constantly. A filter that isn't maintained quietly stops working, and the Reels come back. **StillTabs' filters were changed 46 times between 18 March and 22 October 2026**, which is what keeps them working. It also records, if you opt in to analytics, whether each filter still matches, so a platform redesign gets noticed and fixed quickly.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [Is there a way to turn off short-form video?](turn-off-short-form-video.md)

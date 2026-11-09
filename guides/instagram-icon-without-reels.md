@@ -35,6 +35,24 @@ Skipped it? Open [stilltabs.com/go/instagram](https://stilltabs.com/go/instagram
 
 Whole-app blockers such as Opal and one sec work on the original app: they lock it, or put a pause in front of it, so tapping Instagram leads to a wall or a countdown. SocialLite's iPhone app blocks the native apps so you use its own instead. **StillTabs doesn't lock anything:** the icon you tap simply opens the version of Instagram you wanted, and the original app stays on your phone, untouched, for the day you need it (for example, to post a Reel).
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [How to use Instagram only for messages](instagram-only-for-messages.md)

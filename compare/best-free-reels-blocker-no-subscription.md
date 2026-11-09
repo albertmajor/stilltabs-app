@@ -22,7 +22,7 @@ We make StillTabs, so we are not neutral. That is why every fact about another a
 | App Store privacy label | Data Not Linked to You | Data Not Collected | Data Not Collected | Data Not Collected | Data Not Linked to You |
 | Requires | iOS 16.0 | iOS 16.0 | iOS 17.0 | iOS 16.0 | iOS 16.4 |
 | Other devices | iPhone only | Chrome extension | Chrome extension | iPad, Mac | iPad, Mac, Apple Vision |
-| US ratings | New, no ratings yet | 4.3 from 6 | 2.5 from 4 | 4.0 from 4 | 4.9 from 53,459 |
+| US ratings | New, out since September 2026 | 4.3 from 6 | 2.5 from 4 | 4.0 from 4 | 4.9 from 53,459 |
 
 *From each app's US App Store page and listing data, websites and privacy policies, checked 8 November 2026.*
 
@@ -84,7 +84,7 @@ These apps cost nothing to install, but their US in-app purchase lists include p
 
 - **Other devices.** Nope and FeedOff have Chrome extensions, and Slowth runs on Mac. StillTabs is iPhone only.
 
-- **Track record.** ScreenZen has over 53,000 ratings. StillTabs is new and has none yet.
+- **Track record.** ScreenZen has over 53,000 ratings.
 
 ## Where StillTabs is better
 
@@ -109,6 +109,24 @@ These apps cost nothing to install, but their US in-app purchase lists include p
 - **You want to open fewer apps, not filter them:** ScreenZen.
 
 More on the trade-offs: [the hidden costs of Reels blockers](hidden-costs-of-reels-blockers.md) and [how to check a screen time app](../guides/how-to-check-a-screen-time-app.md).
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

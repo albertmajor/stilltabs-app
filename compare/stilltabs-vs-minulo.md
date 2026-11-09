@@ -23,7 +23,7 @@
 | Languages | English | 13 |
 | Other devices | iPhone only | Also a Mac app and browser extensions |
 | Requires | iOS 16.0 | iOS 16.4 |
-| App Store ratings (US) | New, none yet | 1 rating (8 in Japan) |
+| App Store ratings (US) | New, out since September 2026 | 1 rating (8 in Japan) |
 
 *From each app's US App Store page, minulo's privacy policy and both websites, checked 8 November 2026.*
 
@@ -56,6 +56,24 @@
 ## What neither can do
 
 Both show each network's website inside their own app, so some features of the official apps aren't there in either, such as calls. minulo lists voice messages and posting Stories as unavailable. Both can briefly miss something when a network changes its site.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

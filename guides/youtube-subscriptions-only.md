@@ -16,6 +16,24 @@
 
 **StillTabs' Strict mode opens YouTube on your subscriptions**, removes Shorts from search and channels, and sends Shorts links back out of the Shorts player. Standard mode keeps Home but removes the Shorts tab, the Shorts shelves and autoplaying previews.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [Can you turn off YouTube Shorts?](turn-off-youtube-shorts.md)

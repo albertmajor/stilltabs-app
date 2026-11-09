@@ -31,7 +31,7 @@ The difference is scope. **Fluid Friction** adds a "wave" you drag through befor
 | Devices | iPhone only | iPhone, iPad, Apple Watch, Apple silicon Macs (the iPad version), plus a separate Android app |
 | Requires | iOS 16.0 | iOS 17.0 |
 | Age rating | 17+ | 16+ |
-| App Store ratings (US) | New, no ratings yet | 4.6 from 22 ratings |
+| App Store ratings (US) | New, out since September 2026 | 4.6 from 22 ratings |
 
 *From each app's US App Store page, Fluid Friction's privacy policy, terms and website, checked 8 November 2026.*
 
@@ -78,6 +78,24 @@ Both are free to try. Our [comparison index](README.md) lists more options.
 ## What neither can do
 
 Both apps show each network's own website inside their app, so some features of the official apps are missing in both, such as calls. Both can briefly miss something when a network changes its site, and both need an update to catch up.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

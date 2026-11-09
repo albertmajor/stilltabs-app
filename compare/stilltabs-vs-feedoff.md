@@ -24,7 +24,7 @@
 | Filter rules | Built into the app | Public on GitHub (MIT licence), downloaded from feedoff.app so fixes arrive without an app update |
 | Other devices | iPhone only | iPhone, plus a Chrome extension for YouTube and X |
 | Requires | iOS 16.0 | iOS 16.0 |
-| App Store ratings (US) | New, no ratings yet | 4.3 from 6 ratings |
+| App Store ratings (US) | New, out since September 2026 | 4.3 from 6 ratings |
 
 *From each app's US App Store page, the App Store lookup data, feedoff.app and its privacy policy, checked 8 November 2026.*
 
@@ -50,8 +50,6 @@ If price is your main question, there is no difference. Both answer the search f
 
 - **Widgets and a computer version.** Home Screen and Lock Screen widgets, Control Center buttons, and a Chrome extension for YouTube and X.
 
-- **A few ratings already.** 4.3 from 6 ratings on the US App Store. StillTabs is new and has none yet.
-
 ## Where StillTabs is better
 
 - **It feels like the app.** StillTabs draws Instagram's toolbar natively, keeps each tab loaded so you don't wait for reloads, and supports edge-swipe gestures. [What that looks like](../guides/does-stilltabs-feel-like-instagram.md).
@@ -75,6 +73,24 @@ Both are free, so you can try both and keep the one that fits. Our [comparison o
 ## What neither can do
 
 Both show each network's website inside their own app, so some features of the official apps may be missing in either. Both can briefly miss something when a network changes its site, until the filters are updated.
+
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
 
 ## Common questions
 

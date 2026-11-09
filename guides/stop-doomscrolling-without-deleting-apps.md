@@ -24,6 +24,24 @@ Deleting Instagram also deletes your messages and friends, so it usually comes b
 
 Install [StillTabs](https://apps.apple.com/app/id6761367777), open Instagram or YouTube from the launcher, sign in on the platform's own page and pick Standard or Strict. It's free, with no account.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [StillTabs vs Opal: removing Reels vs blocking the whole app](../compare/stilltabs-vs-opal.md)

@@ -31,6 +31,24 @@ Review counts: the most recent written reviews in Apple's public US review feed 
 
 If your problem is opening apps without meaning to, a pause helps. **If your problem is what happens after you open them** (one message turns into forty minutes of Reels), you need the Reels gone, and that's what StillTabs does.
 
+## What people tell us about StillTabs
+
+> “LOVE THE UI OMG” (November 2026)
+>
+> “Great product.. super underrated” (November 2026)
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!” (November 2026)
+>
+> “This app is what i was looking for” (November 2026)
+>
+> “just what i was looking for (free)” (October 2026)
+>
+> “Hi! Thanks for making such a cool app” (October 2026)
+>
+> “Love it” (November 2026)
+
+*Messages people sent us through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous. We chose these; nobody was paid or asked to write them.*
+
 ## Related
 
 - [Why StillTabs is the best way to get rid of Reels and Shorts](../why-stilltabs.md)
